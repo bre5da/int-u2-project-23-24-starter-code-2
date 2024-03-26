@@ -1,4 +1,7 @@
 /* The code below centers the text of all h1's on the page. */
+body{
+background-color: white;
+}
 h1 {
     text-align:center;
 }
