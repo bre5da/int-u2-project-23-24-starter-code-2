@@ -4,6 +4,7 @@ background-color: white;
 }
 h1 {
     text-align:center;
+  color: green;
 }
 
 /* The code below centers all images on the page and gives them a width of 400px. */
@@ -28,5 +29,9 @@ h2 {
 /* The code below a solid black border to section and puts space between them (the margin). */
 .section {
     border: 5px black solid;
-    margin:5px;
+    margin:20px;
+  margin-top: 20px;
+}
+p{
+  text-align:center;
 }
